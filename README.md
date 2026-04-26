@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Neverours DM Ticket System
 
 A Discord bot that creates private support tickets from a panel button and forwards messages between user DMs and ticket channels.
@@ -15,3 +16,7 @@ A Discord bot that creates private support tickets from a panel button and forwa
 2. Configure your `.env` values.
 3. Start the bot:
    - `npm start`
+=======
+# Private-Ticket-System
+Discord - Ticket - Private - Node
+>>>>>>> 53d6d6c00180d381f77126166fdf943488defc9e
